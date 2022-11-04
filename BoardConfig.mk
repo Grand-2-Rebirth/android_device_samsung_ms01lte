@@ -37,7 +37,7 @@ SIM_COUNT := 1
 BOARD_NFC_CHIPSET := pn547
 
 # Kernel
-TARGET_KERNEL_CONFIG := lineageos_ms01lte_defconfig
+TARGET_KERNEL_CONFIG := lineage_ms01lte_defconfig
 
 # inherit from the proprietary version
 -include vendor/samsung/ms01lte/BoardConfigVendor.mk
