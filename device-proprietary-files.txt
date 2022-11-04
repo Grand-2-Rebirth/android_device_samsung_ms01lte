@@ -1,0 +1,4 @@
+#NFC Firmware
+vendor/firmware/sec_s3fnrn3_firmware.bin
+# Radio
+lib/libsec-ril.so:vendor/lib/libsec-ril.so|075570a628f465f92f3067afcefb6938d4e5dc3a
