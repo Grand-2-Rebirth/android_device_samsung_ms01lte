@@ -15,4 +15,5 @@ Device Tree For Samsung Galaxy Grand 2 LTE
  Rear Camera  | 8 MP, f/2.4, 31mm (standard), AF, LED flash
  Front Camera | 1.9 MP
 
-![Samsung Galaxy Grand 2](https://fdn2.gsmarena.com/vv/pics/samsung/samsung-galaxy-grand-2-1.jpg "Samsung Galaxy Grand 2")
+
+<img src="https://user-images.githubusercontent.com/88838071/198887525-57d903f2-9674-44bd-b213-6d0d767f686a.png" width="400"> 
