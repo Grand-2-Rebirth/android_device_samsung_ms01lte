@@ -24,15 +24,13 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 # Inherit from device
 $(call inherit-product, device/samsung/ms013g/device.mk)
 
-# Release name
-PRODUCT_RELEASE_NAME := SM-G7105
-
 ## Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := ms01lte
 PRODUCT_NAME := lineage_ms01lte
+PRODUCT_DEVICE := ms01lte
 PRODUCT_BRAND := samsung
-PRODUCT_MODEL := Galaxy Grand 2
 PRODUCT_MANUFACTURER := samsung
+PRODUCT_MODEL := SM-G7015
+
 
 PRODUCT_GMS_CLIENTID_BASE := android-samsung
 
