@@ -24,7 +24,7 @@ $(call inherit-product, vendor/samsung/ms01lte/ms01lte-vendor.mk)
 DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
 
 # Radio/RIL
-#$(call inherit-product, device/samsung/ms01-common/radio/dual/product.mk)
+$(call inherit-product, device/samsung/ms01-common/radio/single/board.mk)
 
 #nfc
 NXP_CHIP_TYPE := 1
