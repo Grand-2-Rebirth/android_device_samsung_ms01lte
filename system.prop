@@ -2,3 +2,6 @@
 ro.telephony.default_network=9
 telephony.lteOnGsmDevice=1
 ro.telephony.ril.config=simactivation
+
+# NFC
+ro.nfc.port=I2C
