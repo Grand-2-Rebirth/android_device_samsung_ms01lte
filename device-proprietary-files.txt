@@ -1,6 +1,2 @@
-#NFC Firmware
-vendor/firmware/sec_s3fnrn3_firmware.bin
 # Radio
-lib/libsec-ril.so:vendor/lib/libsec-ril.so
-# Nfc
-lib/nfc_nci.msm8226.so:vendor/lib/nfc_nci.msm8226.so
+lib/libsec-ril.so:vendor/lib/libsec-ril.so|b721e941f2adf92864641ca64d5ea2a139941252

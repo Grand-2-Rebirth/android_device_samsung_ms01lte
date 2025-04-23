@@ -15,11 +15,11 @@
 # limitations under the License.
 #
 
-# Inherit some common LineageOS stuff.
-$(call inherit-product, vendor/lineage/config/common_mini_phone.mk)
-
 # Inherit from those products. Most specific first.
 $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
+
+# Inherit some common LineageOS stuff.
+$(call inherit-product, vendor/lineage/config/common_mini_phone.mk)
 
 # Inherit from device
 $(call inherit-product, device/samsung/ms01lte/device.mk)
@@ -33,5 +33,3 @@ PRODUCT_MODEL := SM-G7015
 
 
 PRODUCT_GMS_CLIENTID_BASE := android-samsung
-
-
