@@ -1,2 +1,2 @@
 # Radio
-lib/libsec-ril.so:vendor/lib/libsec-ril.so|b721e941f2adf92864641ca64d5ea2a139941252
+lib/libsec-ril.so:vendor/lib/libsec-ril.so
